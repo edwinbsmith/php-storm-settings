@@ -1,0 +1,26 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d538f7ad-27cb-41f7-80e2-295ec4a2a5d8" name="Showit Plugin" url="http://showit-wp.dev:8080">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="114bcac7-adf3-4fcc-a534-5b304f3f5d44" name="Homestead - Showit App" url="http://showit.app">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="2f37a1f8-6d7f-4cd5-9d93-9d76a305d3a7" name="Desert's End (Drupal VM)" url="http://drupalvm.dev/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="33f7dd07-e77e-401c-b68b-654f5e87ff2d" name="Donations App" url="http://donations.app">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c54d1cbc-85a1-4504-b312-6574fa382f0d" name="Showit Test Store" url="https://teststore.showit.co">
+        <fileTransfer host="sftp.pressftp.com" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

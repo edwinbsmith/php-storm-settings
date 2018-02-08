@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="Showit_Upgrader_Skin" type="PHP" />
+      <mapping pattern="PluginDeactivator" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping pattern=".showitenv" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="config" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
