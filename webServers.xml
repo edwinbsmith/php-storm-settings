@@ -21,6 +21,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="87228d56-50e9-452a-9d82-9e23e663319d" name="Weekly Report" url="http://weeklyreport.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
