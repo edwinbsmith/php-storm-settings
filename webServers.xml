@@ -27,6 +27,9 @@
       <webServer id="9ed3222d-13fe-4072-a7a7-0656d85a2e1f" name="WordPress Multisite" url="http://multisite.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f7a6c963-8115-4829-be1c-07fc7c6ace4a" name="Preview Server" url="http://preview.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
