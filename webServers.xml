@@ -30,6 +30,9 @@
       <webServer id="f7a6c963-8115-4829-be1c-07fc7c6ace4a" name="Preview Server" url="http://preview.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c0a55bf2-a907-45be-b8a6-e63b67d6e0b6" name="Deserts End Test" url="http://desertsend.test/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
