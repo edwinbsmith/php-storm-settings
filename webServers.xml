@@ -33,6 +33,9 @@
       <webServer id="c0a55bf2-a907-45be-b8a6-e63b67d6e0b6" name="Deserts End Test" url="http://desertsend.test/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="6ca552f5-f38f-48ee-b9fb-94c3b8cf8080" name="Adoption Stories" url="https://adoptionstories.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
