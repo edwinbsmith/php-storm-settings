@@ -36,6 +36,9 @@
       <webServer id="6ca552f5-f38f-48ee-b9fb-94c3b8cf8080" name="Adoption Stories" url="https://adoptionstories.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="a4456f6b-6717-45a8-960b-e3bb5dbb3204" name="SSO Test Blog" url="https://sso.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
