@@ -39,6 +39,12 @@
       <webServer id="a4456f6b-6717-45a8-960b-e3bb5dbb3204" name="SSO Test Blog" url="https://sso.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="19c08a98-70ff-45c1-a120-683dce213e8f" name="ShowPress" url="http://showpress.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="cc5bd224-5563-445e-88a2-0dcb36f4284a" name="ShowPress" url="http://showpress.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
