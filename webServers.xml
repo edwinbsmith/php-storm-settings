@@ -45,6 +45,9 @@
       <webServer id="cc5bd224-5563-445e-88a2-0dcb36f4284a" name="ShowPress" url="http://showpress.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="4c1abb3a-b907-4cb4-9147-d892febd4961" name="Rhythmus Parser" url="http://rhythmus-parser.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
