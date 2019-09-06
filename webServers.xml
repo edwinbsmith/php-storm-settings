@@ -48,6 +48,9 @@
       <webServer id="4c1abb3a-b907-4cb4-9147-d892febd4961" name="Rhythmus Parser" url="http://rhythmus-parser.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="119a7995-b273-4d0b-b903-4f54afac2aff" name="Theme Generator V2" url="http://theme-generator.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
