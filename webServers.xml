@@ -51,6 +51,9 @@
       <webServer id="119a7995-b273-4d0b-b903-4f54afac2aff" name="Theme Generator V2" url="http://theme-generator.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="54aa489c-88fc-4bd6-9e27-5e641ea78b92" name="Showit Store Dev" url="http://showitstoredev.wpengine.com.local:3000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
