@@ -54,6 +54,9 @@
       <webServer id="54aa489c-88fc-4bd6-9e27-5e641ea78b92" name="Showit Store Dev" url="http://showitstoredev.wpengine.com.local:3000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="9f061691-c8ce-49c3-8d9d-d8b0144be3dd" name="Showit Store" url="https://store.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
