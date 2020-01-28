@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="PluginDeactivator" type="PHP" />
       <mapping pattern="Showit_Upgrader_Skin" type="PHP" />
       <mapping ext="profile" type="PHP" />
