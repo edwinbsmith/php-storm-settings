@@ -57,6 +57,9 @@
       <webServer id="9f061691-c8ce-49c3-8d9d-d8b0144be3dd" name="Showit Store" url="https://store.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="38d6c206-6e26-40e8-8ed4-4e447478c608" name="McShowit Local" url="https://mcshowit.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
