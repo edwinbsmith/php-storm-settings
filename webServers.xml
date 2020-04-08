@@ -60,6 +60,9 @@
       <webServer id="38d6c206-6e26-40e8-8ed4-4e447478c608" name="McShowit Local" url="https://mcshowit.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="862c3acb-49e8-4e18-9339-cdb7dbf0a0a8" name="Local - Showit Emergency " url="http://localhost:10003">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
