@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="sftp.pressftp.com" id="711d5079-99bc-4080-8671-4c7037ea9158" port="22" customName="Showit Test Store" nameFormat="CUSTOM" username="ftp15ivrrGB451ifII" />
-      <sshConfig authType="PASSWORD" host="sftp.pressftp.com" id="19565e91-10c0-4d34-a60c-5b1c416c593b" port="22" customName="Showit Test Store" nameFormat="CUSTOM" username="ftp15ivrrGB451ifII" />
+      <sshConfig authType="PASSWORD" host="sftp.pressftp.com" id="1fe1bcb6-4477-4bb4-8ead-141c2cc46865" port="22" customName="Showit Test Store" nameFormat="CUSTOM" username="ftp15ivrrGB451ifII" />
     </configs>
   </component>
 </application>
