@@ -2,66 +2,68 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="d538f7ad-27cb-41f7-80e2-295ec4a2a5d8" name="Showit Plugin" url="http://showit-wp.dev:8080">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="114bcac7-adf3-4fcc-a534-5b304f3f5d44" name="Homestead - Showit App" url="http://showit.app">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="2f37a1f8-6d7f-4cd5-9d93-9d76a305d3a7" name="Desert's End (Drupal VM)" url="http://drupalvm.dev/">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="33f7dd07-e77e-401c-b68b-654f5e87ff2d" name="Donations App" url="http://donations.app">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="c54d1cbc-85a1-4504-b312-6574fa382f0d" name="Showit Test Store" url="https://teststore.showit.co">
-        <fileTransfer host="sftp.pressftp.com" port="22" accessType="SFTP">
+        <fileTransfer accessType="SFTP" host="sftp.pressftp.com" port="22" sshConfigId="1fe1bcb6-4477-4bb4-8ead-141c2cc46865" sshConfig="Showit Test Store">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="87228d56-50e9-452a-9d82-9e23e663319d" name="Weekly Report" url="http://weeklyreport.test">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="9ed3222d-13fe-4072-a7a7-0656d85a2e1f" name="WordPress Multisite" url="http://multisite.test">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="f7a6c963-8115-4829-be1c-07fc7c6ace4a" name="Preview Server" url="http://preview.test">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="c0a55bf2-a907-45be-b8a6-e63b67d6e0b6" name="Deserts End Test" url="http://desertsend.test/">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="6ca552f5-f38f-48ee-b9fb-94c3b8cf8080" name="Adoption Stories" url="https://adoptionstories.test">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="a4456f6b-6717-45a8-960b-e3bb5dbb3204" name="SSO Test Blog" url="https://sso.local">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="19c08a98-70ff-45c1-a120-683dce213e8f" name="ShowPress" url="http://showpress.test">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="cc5bd224-5563-445e-88a2-0dcb36f4284a" name="ShowPress" url="http://showpress.test">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="4c1abb3a-b907-4cb4-9147-d892febd4961" name="Rhythmus Parser" url="http://rhythmus-parser.test">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="119a7995-b273-4d0b-b903-4f54afac2aff" name="Theme Generator V2" url="http://theme-generator.test">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="54aa489c-88fc-4bd6-9e27-5e641ea78b92" name="Showit Store Dev" url="http://showitstoredev.wpengine.com.local:3000">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="9f061691-c8ce-49c3-8d9d-d8b0144be3dd" name="Showit Store" url="https://store.test">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="38d6c206-6e26-40e8-8ed4-4e447478c608" name="McShowit Local" url="https://mcshowit.test">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="862c3acb-49e8-4e18-9339-cdb7dbf0a0a8" name="Local - Showit Emergency " url="http://localhost:10003">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+      <webServer id="83084382-a4cf-4d73-a411-f68c4af722c6" name="Showit Test Store" url="http://localhost:10008/">
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
     </option>
   </component>
