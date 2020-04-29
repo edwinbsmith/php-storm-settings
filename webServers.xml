@@ -14,7 +14,7 @@
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="c54d1cbc-85a1-4504-b312-6574fa382f0d" name="Showit Test Store" url="https://teststore.showit.co">
-        <fileTransfer accessType="SFTP" host="sftp.pressftp.com" port="22" sshConfigId="1fe1bcb6-4477-4bb4-8ead-141c2cc46865" sshConfig="Showit Test Store">
+        <fileTransfer accessType="SFTP" sshConfigId="1fe1bcb6-4477-4bb4-8ead-141c2cc46865" sshConfig="Showit Test Store">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -63,6 +63,9 @@
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="83084382-a4cf-4d73-a411-f68c4af722c6" name="Showit Test Store" url="http://localhost:10008/">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+      <webServer id="ff90f34c-57da-4a64-9b7b-4ca32df3aec9" name="MC4" url="https://mc4.test">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
     </option>
