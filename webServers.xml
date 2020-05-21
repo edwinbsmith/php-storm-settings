@@ -68,6 +68,9 @@
       <webServer id="ff90f34c-57da-4a64-9b7b-4ca32df3aec9" name="MC4" url="https://mc4.test">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="695dc58f-8081-462e-8948-64b8ea610ce2" name="Reflection Test" url="http://reflection.test">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
