@@ -3,17 +3,17 @@
     <extensionMap>
       <mapping pattern="PluginDeactivator" type="PHP" />
       <mapping pattern="Showit_Upgrader_Skin" type="PHP" />
-      <mapping ext="profile" type="PHP" />
-      <mapping ext="engine" type="PHP" />
-      <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern=".distignore" type="PLAIN_TEXT" />
       <mapping pattern=".showitenv" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping pattern=".distignore" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="pot" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="config" type="YAML" />
